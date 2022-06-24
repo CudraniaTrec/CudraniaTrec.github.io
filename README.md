@@ -10,5 +10,5 @@ GitHub: [CudraniaTrec](https://github.com/CudraniaTrec)
 
 ### Weblog
 
- [Hello world](https://CudraniaTrec.github.io/weblog/helloworld.md)
+ [知乎](https://www.zhihu.com/people/bi-mo-nian-hua-54)
 
